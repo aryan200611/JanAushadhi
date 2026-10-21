@@ -1,0 +1,6 @@
+{
+  "name": "JanAushadhi Satya",
+  "description": "Zero-hallucination medicine price transparency and clinical equivalence auditor for Jan Aushadhi PMBJP generics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

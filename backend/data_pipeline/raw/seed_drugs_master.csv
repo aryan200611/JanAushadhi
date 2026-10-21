@@ -1,0 +1,21 @@
+id,brand_name,brand_manufacturer,dosage_form,release_type,generic_release_type,composition_raw,branded_mrp,branded_pack_size,generic_name,pmbjp_drug_code,generic_pack_size,generic_mrp,nppa_ceiling_price,therapeutic_category,is_nti
+DRUG-001,Augmentin 625 Duo,GlaxoSmithKline Pharmaceuticals Ltd,Tablet,IR,IR,"Amoxycillin:500:mg|Clavulanic Acid:125:mg",201.71,10,Amoxycillin and Potassium Clavulanate Tablets IP 625mg,38,10,52.00,20.17,Antibiotic,false
+DRUG-002,Pan-D,Alkem Laboratories Ltd,Capsule,SR,SR,"Pantoprazole:40:mg|Domperidone:30:mg",210.00,15,Pantoprazole Gastro-resistant and Domperidone Prolonged-release Capsules IP,249,10,24.00,14.00,Gastrointestinal,false
+DRUG-003,Telma 20,Glenmark Pharmaceuticals Ltd,Tablet,IR,IR,"Telmisartan:20:mg",128.00,30,Telmisartan Tablets IP 20mg,314,10,7.50,4.50,Antihypertensive,false
+DRUG-004,Telma 40,Glenmark Pharmaceuticals Ltd,Tablet,IR,IR,"Telmisartan:40:mg",225.00,30,Telmisartan Tablets IP 40mg,315,10,12.00,7.50,Antihypertensive,false
+DRUG-005,Telma 80,Glenmark Pharmaceuticals Ltd,Tablet,IR,IR,"Telmisartan:80:mg",395.00,30,Telmisartan Tablets IP 80mg,316,10,22.00,13.50,Antihypertensive,false
+DRUG-006,Glycomet-GP 1,USV Private Limited,Tablet,SR,SR,"Glimepiride:1:mg|Metformin:500:mg",142.50,15,Glimepiride 1mg and Metformin 500mg Prolonged-release Tablets IP,163,10,16.00,9.50,Antidiabetic,false
+DRUG-007,Glycomet-GP 2,USV Private Limited,Tablet,SR,SR,"Glimepiride:2:mg|Metformin:500:mg",218.00,15,Glimepiride 2mg and Metformin 500mg Prolonged-release Tablets IP,164,10,22.00,14.50,Antidiabetic,false
+DRUG-008,Atorva 10,Zydus Cadila,Tablet,IR,IR,"Atorvastatin:10:mg",115.00,15,Atorvastatin Tablets IP 10mg,54,10,8.00,7.60,Lipid Lowering,false
+DRUG-009,Atorva 20,Zydus Cadila,Tablet,IR,IR,"Atorvastatin:20:mg",212.00,15,Atorvastatin Tablets IP 20mg,55,10,13.20,14.10,Lipid Lowering,false
+DRUG-010,Shelcal 500,Torrent Pharmaceuticals Ltd,Tablet,IR,IR,"Elemental Calcium:500:mg|Vitamin D3:250:IU",144.00,15,Calcium and Vitamin D3 Tablets IP,103,10,14.00,9.60,Nutritional,false
+DRUG-011,Dolo 650,Micro Labs Ltd,Tablet,IR,IR,"Paracetamol:650:mg",33.60,15,Paracetamol Tablets IP 650mg,104,10,12.00,2.24,Analgesic,false
+DRUG-012,Azithral 500,Alembic Pharmaceuticals Ltd,Tablet,IR,IR,"Azithromycin:500:mg",132.00,5,Azithromycin Tablets IP 500mg,57,3,44.00,26.40,Antibiotic,false
+DRUG-013,Ecosprin 75,USV Private Limited,Tablet,EC,EC,"Aspirin:75:mg",6.00,14,Aspirin Gastro-resistant Tablets IP 75mg,51,14,4.00,0.43,Antiplatelet,false
+DRUG-014,Thyronorm 50,Abbott India Ltd,Tablet,IR,IR,"Thyroxine Sodium:50:mcg",190.00,120,Thyroxine Sodium Tablets IP 50mcg,320,100,45.00,1.58,Endocrine,true
+DRUG-015,Stamlo 5,Dr. Reddy's Laboratories Ltd,Tablet,IR,IR,"Amlodipine:5:mg",78.00,15,Amlodipine Tablets IP 5mg,30,10,6.00,5.20,Antihypertensive,false
+DRUG-016,Pantocid 40,Sun Pharmaceutical Industries Ltd,Tablet,EC,EC,"Pantoprazole:40:mg",168.00,15,Pantoprazole Gastro-resistant Tablets IP 40mg,247,10,18.00,11.20,Gastrointestinal,false
+DRUG-017,Montair LC,Cipla Ltd,Tablet,IR,IR,"Levocetirizine:5:mg|Montelukast:10:mg",218.00,10,Levocetirizine and Montelukast Tablets IP,201,10,26.00,21.80,Respiratory,false
+DRUG-018,Allegra 120,Sanofi India Ltd,Tablet,IR,IR,"Fexofenadine:120:mg",235.00,10,Fexofenadine Hydrochloride Tablets IP 120mg,147,10,38.00,23.50,Antihistamine,false
+DRUG-019,Metolar XR 50,Cipla Ltd,Tablet,XR,XR,"Metoprolol Succinate:50:mg",182.00,15,Metoprolol Succinate Extended Release Tablets IP 50mg,198,10,22.00,12.13,Cardiovascular,false
+DRUG-020,Chymoral Forte,Torrent Pharmaceuticals Ltd,Tablet,EC,EC,"Trypsin-Chymotrypsin:100000:AU",485.00,20,Trypsin and Chymotrypsin Tablets,111,10,85.00,24.25,Anti-inflammatory,false
